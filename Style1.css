@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 15vh;
+    width: 90vw;
+    margin: auto;
+    background-color: rgba(104, 182, 246, 0.775);
+    color: black;
+    border: 3px solid rgb(8, 121, 214);
+    top: 0vh;
+    /* position:sticky; */
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    /* font-family: 'Lato', sans-serif; */
+    font-family: 'Grand Hotel', cursive;
+    text-align: center;
+    padding-top: 4vh;
+    /* font-size:3vh ; */
+    font-size: 25px;
+}
+
+.h5 {
+    padding-bottom: 26px;
+}
+
+main {
+    background-color: mintcream;
+    margin: auto;
+    text-align: center;
+    height: 100vh;
+    width: 90vw;
+    border: 5px solid rgb(8, 121, 214);
+}
+.h6{
+    font-family: 'Grand Hotel', cursive;  
+}
+.h4{
+    font-family: 'Grand Hotel', cursive;  
+    display: inline; 
+    position: relative;
+    right: 28vw;
+}
+
+
+
+.side {
+    position: relative;
+    right: 23vw;
+}
+.box{
+    position: relative;
+    right: 5vw;
+display: inline;
+height: 29px;
+width: 200px;
+
+}
+
+.side1{
+    position: relative;
+    right: 20vw;
+}
+.box1{
+    position: relative;
+    right: 8.15vw;
+display: inline;
+height: 29px;
+width: 200px;
+}
+.side2{
+    position: relative;
+
+    right: 19.5vw;
+}
+.box2{
+    position: relative;
+    right: 8.60vw;
+display: inline;
+height: 29px;
+width: 200px;
+
+}
+
+.side3{
+    position: relative;
+    right: 21vw;
+}
+.box3{
+    position: relative;
+    right: 7vw;
+display: inline;
+height: 29px;
+width: 200px;
+
+}
+
+.side4{
+    position: relative;
+    right: 26vw;
+}
+.box4{
+    position: relative;
+    right: 15.5vw;
+display: inline;
+height: 29px;
+width: 200px;
+
+}
+
+
+.side5{
+    position: relative;
+    right: 26.5vw;
+}
+.box5{
+    position: relative;
+    right: 15vw;
+display: inline;
+height: 29px;
+width: 200px;
+
+}
+
+.side6{
+    position: relative;
+    left: -45vh;
+}
+.box6{
+    position: relative;
+    right: 5vw;
+display: inline;
+height: 29px;
+width: 200px;
+
+}
+.calculatetotal{
+    height: 6vh;
+    width: 16vw;
+    font-size: 2vh;
+    background-color: rgb(8, 121, 214);
+
+}
+.aminities{
+    position: relative;
+    left: -52vh;   
+}
+.roomcost{
+    position: relative;
+    left: -55vh;   
+}
+.totalcost{
+    position: relative;
+    left: -60vh;   
+}
+.balanceamount{
+    position: relative;
+    left: -54vh; 
+
+}
+#submit{
+    font-size:3vh;
+    width: 7vw;
+    background-color: rgb(8, 121, 214);
+}
+#reset{
+    font-size:3vh;
+    width: 7vw;
+    background-color: rgb(8, 121, 214);
+}
+body {
+
+    background-color:rgba(171, 204, 250, 0.982);
+    /* background-color: white; */
+
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+}
+footer{
+    height: 15vh;
+    width: 90vw;
+    margin: auto;
+    background-color: rgba(104, 182, 246, 0.775);
+    color: black;
+    border: 3px solid rgb(8, 121, 214);
+    /* display: inline; */
+    font-family: 'Grand Hotel', cursive;
+}
