@@ -1,0 +1,46 @@
+
+
+/*GIVING STYLE TO THE PAGE:-*/
+form{
+    /* text-align:center; */
+    background-color:whitesmoke;
+    padding :10px;
+    color:black;
+    
+  }
+  body{
+    
+       background-color: orangered;
+      }
+  button {
+      background-color: rgb(255, 0, 0);
+      color:white;
+  padding :7px;
+  
+  }
+  #submit, #reset{
+      background-color: rgb(255, 0, 0);
+      color:whitesmoke;
+      padding: 4px 29px;
+  }
+  footer{
+      text-align: center;
+  }
+  
+  b{
+      padding :5px;
+      margin:5px;
+      display: block;
+  }
+  h1,h2{
+      font-size: 40px;
+      margin:15px;
+      text-align:center;
+      display:block;
+   
+  
+  }
+  p{
+  text-align: center;
+  
+  }
